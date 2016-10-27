@@ -45,3 +45,29 @@ def run_tests():
 # Edit this code
 def encode(word):
 
+    if len(word) < 4:
+        print (word*2)
+
+    elif word[0] == "a" or word[0] == "e" or word[0] == "i" or word[0] == "o" or word[0] == "u":
+        print (word[1:] + word[0])
+
+    else:
+        print (word[::-1])
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+

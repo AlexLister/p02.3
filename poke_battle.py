@@ -40,4 +40,85 @@ def run_tests():
 
 # Edit this code
 def battle(name1, power1, name2, power2):
+    
+    if name1 == "Mewtwo":
+        power1 = power1 + 100
+
+    if name2 == "Mewtwo":
+        power2 = power2 + 100
+
+    if power1 == power2:
+        print ("Draw")
+
+    elif power1 > power2:
+        print (name1)
+
+    else:
+        print (name2)
+
+#I wanna be the very best
+#Like no one ever was
+#To catch them is my real test
+#To train them is my cause
+
+#I will travel across the land
+#Searching far and wide
+#Each Pokemon to understand
+#The power that's inside
+
+#Pokemon, gotta catch 'em all
+#Its you and me
+#I know it's my destiny
+#Pokemon, oh, you're my best friend
+#In a world we must defend
+#Pokemon, gotta catch 'em all
+#A heart so true
+#Our courage will pull us through
+
+#You teach me and I'll teach you
+#Pokemon, gotta catch 'em all
+#Gotta catch 'em all
+#Yeah
+
+#Every challenge along the way
+#With courage I will face
+#I will battle every day
+#To claim my rightful place
+
+#Come with me, the time is right
+#There's no better team
+#Arm in arm we'll win the fight
+#It's always been our dream
+
+#Pokemon, gotta catch 'em all
+#Its you and me
+#I know it's my destiny
+#Pokemon, oh, you're my best friend
+#In a world we must defend
+#Pokemon, gotta catch 'em all
+#A heart so true
+#Our courage will pull us through
+
+#You teach me and I'll teach you
+#Pokemon, gotta catch 'em all
+#Gotta catch 'em all
+#Gotta catch 'em all
+#Gotta catch 'em all
+#Yeah
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
